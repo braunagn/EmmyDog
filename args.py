@@ -37,7 +37,7 @@ input_args = [
     "--adam_weight_decay=0.01",
     "--adam_epsilon=1e-08",
     "--max_grad_norm=1.0",
-    "--push_to_hub=True",
+    "--push_to_hub",
     "--hub_token=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",
     "--hub_model_id=braunagn/emmydog-dreambooth-V0",
     "--logging_dir=logs",
